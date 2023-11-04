@@ -21,3 +21,8 @@ Tableau
 Data Visualization
 
 Excel
+
+
+
+
+![Output](https://github.com/iamnithishwar/Airbnb-s-Data-Visualization-using-Tableau-/assets/108410047/9fd45094-9d52-4d6e-a757-fa25c935146d)
